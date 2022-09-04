@@ -23,8 +23,7 @@ namespace Dairy.Models
         {
             if (!optionsBuilder.IsConfigured)
             {
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see http://go.microsoft.com/fwlink/?LinkId=723263.
-                optionsBuilder.UseSqlServer("Server=81.177.6.104, 1433;Database=OduvanchikWorkshopClients; User ID=sa; Password = WsrWsrWsr2021$; Trusted_Connection=False; Integrated Security=False;");
+                optionsBuilder.UseSqlServer("and don`t forgot to past it there");
             }
         }
 

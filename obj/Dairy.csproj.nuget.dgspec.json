@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shelb\\source\\repos\\Dairy\\Dairy.csproj": {}
+    "C:\\Users\\shelb\\OneDrive\\Рабочий стол\\ASP.NET-CORE-6-CRUD\\Dairy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shelb\\source\\repos\\Dairy\\Dairy.csproj": {
+    "C:\\Users\\shelb\\OneDrive\\Рабочий стол\\ASP.NET-CORE-6-CRUD\\Dairy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shelb\\source\\repos\\Dairy\\Dairy.csproj",
+        "projectUniqueName": "C:\\Users\\shelb\\OneDrive\\Рабочий стол\\ASP.NET-CORE-6-CRUD\\Dairy.csproj",
         "projectName": "Dairy",
-        "projectPath": "C:\\Users\\shelb\\source\\repos\\Dairy\\Dairy.csproj",
+        "projectPath": "C:\\Users\\shelb\\OneDrive\\Рабочий стол\\ASP.NET-CORE-6-CRUD\\Dairy.csproj",
         "packagesPath": "C:\\Users\\shelb\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shelb\\source\\repos\\Dairy\\obj\\",
+        "outputPath": "C:\\Users\\shelb\\OneDrive\\Рабочий стол\\ASP.NET-CORE-6-CRUD\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

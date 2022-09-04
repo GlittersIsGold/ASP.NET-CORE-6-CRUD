@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4Sk6nKJc71cakfl7sjusPbMJRxLkS3kyXYnjrhKNlz+2F3/jeW7SMZK2/zQ/tWVewfI2OfODXQDqDcxpB2Mhg==",
+  "dgSpecHash": "zZ9lhozbArqG9pguIV8Qfh2u1tWGGTnhLEdYkoAGGWPc7wlev7oZKemu3NUzozRfiFBH44gWyrXv1S6PqTKawg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\shelb\\source\\repos\\Dairy\\Dairy.csproj",
+  "projectFilePath": "C:\\Users\\shelb\\OneDrive\\Рабочий стол\\ASP.NET-CORE-6-CRUD\\Dairy.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\shelb\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\shelb\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
